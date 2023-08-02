@@ -9,7 +9,7 @@
 
 ## how to run: 
 
-After cloning the repository run this command inside the 'mysql-environment' directory: 
+After cloning the repository run this command: 
 
 ```
 docker-compose up --build
