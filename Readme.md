@@ -13,3 +13,12 @@ After cloning the repository run this command:
 
 ```
 docker-compose up --build
+```
+
+Use **ctrl+c** to stop.
+
+To run the containers again, just use the command: 
+
+```
+docker-compose up
+```
